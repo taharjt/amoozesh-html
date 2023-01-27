@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title> E14 </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <span> Yes : (20%) </span> <meter value="0.2"> 20% </meter>
+        <br><br>
+        <span> No : (80%) </span> <meter value="0.8"> 80% </meter>
+        <br><br>
+        <hr>
+        <br><br>
+        <progress></progress>
+        <br><br>
+        <progress max="100" value="35"></progress>
+        <br><br>
+        <p> this is tag <small> small </small> </p>
+        <br><br>
+        <pre> 
+                .محتسب مستی به ره دید و گریبانش گرفت
+                    مستی گفت : ای دوست این پیراهن است افسار نیست
+                          محتسب گفت : مستی زان سبب افتان و خیزان میروی
+                                  گفت : جرم راه رفتن نیست ، ره هموار نیست
+        </pre>
+    </body>
+</html>

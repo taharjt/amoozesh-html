@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title> E12 </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p> Leran <ins>Html</ins> For Website </p>
+        <p> Learn <dfn title="DFN">dfn</dfn> in Html5 </p>
+        <font size="6" color="pink"> This is some Text . . . </font>
+        <p> For Copy: <kbd> Ctrl + c </kbd> and for paste: <kbd> Ctrl + p </kbd> </p>
+        <p> Website <mark>Sabzlearn.ir</mark> for Learn Html pro </p>
+        <p> Amir dini : <q> Lorem ipsuasm dolor sit amet, consectetuer adipiscisng elit, sed diam </q> </p>
+    </body>
+</html>
