@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>E07</title>
+</head>
+
+<body>
+	<b> Tag b : Bold </b>
+	<br>
+	<span> Amir Dini modarese <b> Html </b> </span>
+	<br>
+	<strong> Tag strong : Bold </strong>
+	<br><br><hr>
+	<i> Tag i : italic </i>
+	<br>
+	<span> Amir Dini modarese <i> Html </i> </span>
+	<br>
+	<em> Tag em : italic </em>
+</body>
+</html>
