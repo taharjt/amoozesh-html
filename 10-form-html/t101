@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title> E17 </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p> Login Page : </p>
+        <form>
+           <label for="user"> Username : </label> <input id="user" type="text">
+            <br><br>
+            <label> Password : </label> <input type="password">
+            <br><br><br><br>
+            <hr>
+            <br><br>
+            <p> Favorite sportttt : </p>
+            <label for="amir"> Football </label><input id="amir" type="radio" name="Football">
+            <br>
+            <label> Basketbal </label><input type="radio" name="Basketbal"> <br>
+            <label> wrestling </label><input type="radio" name="wrestling">
+            <br>
+            <label> ping pong </label><input type="radio" name="ping pong" checked>
+            <br><br><br><br>
+            <p> Gender : </p>
+            <label> Male </label><input type="radio" name="Gender">
+            <br>
+            <label> Female </label><input type="radio" name="Gender" value="famale">
+     
+            
+        </form>
+    </body>
+</html>

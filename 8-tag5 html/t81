@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title> E15 </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p> This text <sub> tag sub </sub> </p>
+        <br>  <br>  <br>
+        <p> This text <sup> tag sub </sup> </p>
+        <br>  <br>  <br>
+        <p> World Time : <time> 20:00 </time> Pm </p>
+        <br>  <br>  <br>
+        
+        <p> SSSSSSSSSSasdasSSSGNRTIGNTBIUUNIBTNIUBTUINBTNIUBTENUIBTNUIBTEUNINUUNITNEUTNUBTBTIBTNEPOW,<wbr>XQXQ-LCE[C,WPVWR,OVKRVR9J9NGTH]<wbr> </p>
+        <br>  <br>  <br>
+        <strong> Text Bold </strong>
+    </body>
+</html>
