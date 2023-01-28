@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>E299</title>
+</head>
+<body>
+    <h3> Café list (UL) </h3>
+    <ul>
+        <li>Hot drink
+            <ul>
+                <li> Tea </li>
+                <li> Nescafe </li>
+                <li> Coffee </li>
+                <li> Espresso </li>
+            </ul>
+        </li>
+        <li>cold drink
+            <ul>
+                <li>Water</li>
+                <li>Ice cream</li>
+                <li>smoothie</li>
+            </ul>
+        </li>
+        <li>Dessert</li>
+    </ul>
+    <br>
+    <h3> Food list (OL) </h3>
+    <ol type="A">
+        <li> fast food 
+            <ol type="a">
+                <li> Burger </li>
+                <li> Pizza </li>
+                <li> potato </li>
+            </ol>
+        </li>
+        <li> Persian
+            <ol type="a"> 
+                <li> Barbecue </li>
+                <li> Chicken </li>
+                <li> Rice </li>
+                <li> Fish </li>
+            </ol>
+        </li>
+    </ol>
+
+</body>
+</html>
