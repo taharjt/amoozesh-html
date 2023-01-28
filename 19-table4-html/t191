@@ -1,0 +1,100 @@
+<html>
+    <head>
+        <title> E2777 </title>
+        <meta charset="utf-8">
+    </head>
+    <body dir="rtl" style="font-family: yekan bakh">
+        <table border="1" style="width: 30%" align="center">
+            <caption> شرح وضیعت دوره های سبز لرن </caption>
+            <tr> 
+                    <th> ردیف : </th>
+                    <th> نام دوره : </th>
+                    <th> ساعت دوره : </th>
+                    <th bgcolor="#1B5E20" style="color: #fff;" rowspan="4"> وضعیت دوره : تکمیل شده </th>
+            </tr>
+            <tr>
+                <td> 1 </td>
+                <td> آموزش مقدماتی Html </td>
+                <td> 4 </td>
+            </tr>
+            <tr>
+                <td> 2 </td>
+                <td> آموزش مقدماتی Css </td>
+                <td> 5 </td>
+            </tr>
+            <tr>
+                <td> 3 </td>
+                <td> آموزش Js </td>
+                <td> 15 </td>
+            </tr>
+        </table>
+        <br><br><br>
+        <table border="1" style="width: 30%" align="center">
+            <caption> شرح وضیعت دوره های سبز لرن </caption>
+            <tr> 
+                    <th> ردیف : </th>
+                    <th> نام دوره : </th>
+                    <th> ساعت دوره : </th>
+                    <th bgcolor="#FBC02D" style="color: #000;" rowspan="4"> وضعیت دوره : درحال برگزاری </th>
+            </tr>
+            <tr>
+                <td> 1 </td>
+                <td> آموزش مقدماتی Html </td>
+                <td> 4 </td>
+            </tr>
+            <tr>
+                <td> 2 </td>
+                <td> آموزش مقدماتی Css </td>
+                <td> 5 </td>
+            </tr>
+            <tr>
+                <td> 3 </td>
+                <td> آموزش Js </td>
+                <td> 15 </td>
+            </tr>
+        </table>
+        <br><br><br>
+        <table border="1" style="width: 30%" align="center">
+            <caption> شرح وضیعت دوره های سبز لرن </caption>
+            <tr> 
+                    <th> ردیف : </th>
+                    <th> نام دوره : </th>
+                    <th> ساعت دوره : </th>
+                    <th bgcolor="#CCC"> وضعیت دوره : </th>
+            </tr>
+            <tr>
+                <td> 1 </td>
+                <td> آموزش مقدماتی Html </td>
+                <td> 4 </td>
+                <th bgcolor="#1B5E20" style="color: #fff;" rowspan="3"> وضعیت : تکمیل شده </th>
+            </tr>
+            <tr>
+                <td> 2 </td>
+                <td> آموزش مقدماتی Css </td>
+                <td> 5 </td>
+            </tr>
+            <tr>
+                <td> 3 </td>
+                <td> آموزش Js </td>
+                <td> 15 </td>
+            </tr>
+            <tr>
+                <td> 4 </td>
+                <td> آموزش پیشرفته Html </td>
+                <td> 4 </td>
+                <th bgcolor="#FBC02D" style="color: #000;" rowspan="3"> وضعیت : درحال برگزاری  </th>
+
+            </tr>
+            <tr>
+                <td> 5 </td>
+                <td> آموزش پیشرفته Css </td>
+                <td> 5 </td>
+            </tr>
+            <tr>
+                <td> 6 </td>
+                <td> آموزش PHP </td>
+                <td> 15 </td>
+            </tr>
+        </table>
+    </body>
+</html>
