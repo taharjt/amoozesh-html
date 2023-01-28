@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title> E2666 </title>
+        <meta charset="utf-8">
+    </head>
+    <body dir="rtl">
+        <table border="1" align="center" style="font-family: iranyekan; width: 30%;" cellpadding="20">
+            <caption> دوره های امیر دینی </caption>
+            <tr>
+                <th bgcolor="#ccc"> ردیف : </th>
+                <th bgcolor="#ccc"> دوره ها : </th>
+                <th bgcolor="#ccc"> دانشجو : </th>
+            </tr>
+            <tr>
+                <td> 1 </td>
+                <td bgcolor="#01579B" style="color: #fff;"> آموزش طراحی وب </td>
+                <td> 360 </td>
+            </tr>
+            <tr>
+                <td> 2 </td>
+                <td> آموزش طراحی قالب گرافیکی </td>
+                <td> 120 </td>
+            </tr>
+            <tr>
+                <td> 3 </td>
+                <td> آموزش کارآفرینی </td>
+                <td> 853 </td>
+            </tr>
+        </table>
+    </body>
+</html>

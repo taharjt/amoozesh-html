@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <title> E22 </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form dir="rtl">
+            <label> ???شما به کدام کشور علاقه دارید ؟! </label>
+            <select size="4" multiple>
+                <option> هلند </option>
+                <option> انگلستان </option>
+                <option> رومانی </option>
+                <option> برزیل </option>
+            </select>
+            <br><br><br><br>
+            <label>روز : </label>
+            <select name="day">
+                <option> 1 </option>
+                <option> 2 </option>
+                <option> 3 </option>
+                <option> 4 </option>
+                <option> 5 </option>
+                <option> 6 </option>
+                <option> 7 </option>
+                <option> 8 </option>
+                <option> 9 </option>
+                <option> 10 </option>
+                <option> 11 </option>
+                <option> 12 </option>
+                <option> 13 </option>
+                <option> 14 </option>
+                <option> 15 </option>
+                <option> 16 </option>
+                <option> 17 </option>
+                <option> 18 </option>
+                <option> 19 </option>
+                <option> 20 </option>
+            </select>
+            <label> ماه : </label>
+            <select>
+                <option> فروردین </option>
+                <option> اردیبهشت </option>
+                <option> خرداد </option>
+                <option> تیر </option>
+                <option> مرداد </option>
+                <option> مهر </option>
+                <option> ابان </option>
+                <option> آذر </option>
+                <option> دی </option>
+                <option> بهمن </option>
+                <option> اسفند </option>
+            </select>
+            <br><br><br><br>
+            <label> بهترین کشور از نظر شما : </label>
+            <select>
+                <optgroup label="قاره آمریکا">
+                <option> آمریکا </option>
+                <option> آرژانین </option>
+                </optgroup>
+                <optgroup label="قاره اروپا">
+                <option> هلند </option>
+                <option> لهستان </option>
+                <option> آلمان </option>
+                </optgroup>
+                <optgroup label="قاره آفریقا">
+                <option> کامرون </option>
+                <option> الجزیره </option>
+                 </optgroup>
+                <optgroup label="قاره آسیا">
+                <option> ژاپن </option>
+                <option> چین </option>
+                <option> ایران </option>
+                </optgroup>
+            </select>
+            <br><br><br><br>
+            <label> نظرات شما : </label>
+            <br><br>
+            <textarea placeholder="هرچه میخواهد دل تنگت بگو  . . . " style="width: 200px; height: 100px;"></textarea>
+        </form>
+    </body>
+</html>

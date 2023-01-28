@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title> E2111 </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form>
+        <label> First Name : </label>
+        <input type="text" name="First" autofocus required>
+        <br><br>
+        <label> Last Name : </label>
+        <input type="text" name="Last" value="Dini" disabled>
+        <br><br>
+        <label> Email : </label>
+        <input type="email" name="Email" size="45" required>        
+        <br><br>
+        <label> Website : </label>
+        <input type="url" name="Website" maxlength="20" value="Enter Your Website !">
+        <br><br>
+        <label> Phone Number : </label>
+        <input type="tel" name="Phone" placeholder="شماره همراه خود را وارد کنید">        <br><br>
+        <input type="submit" name="submit">
+            </form>
+    </body>
+</html>

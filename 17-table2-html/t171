@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title> E2555 </title>
+        <meta charset="utf-8">
+    </head>
+    <body dir="rtl">
+        <table border="1" align="center" style="font-family: iranyekan;width: 40%;">
+            <caption> جدول دوره های سبز لرن </caption>
+            <br>
+            <colgroup style="background-color: #eb3b5a;"></colgroup>
+            <colgroup style="background-color: #512da8;"></colgroup>
+            <colgroup style="background-color: #212121;"></colgroup>
+            <tr>
+                <th style="color: #fff;"> ردیف : </th>
+                <th style="color: #fff;"> نام دوره : </th>
+                <th style="color: #fff;"> ساعت دوره  : </th>
+            </tr>
+            <tr>
+                <td style="color: #fff; text-align: center;"> 1 </td>
+                <td style="color: #fff; text-align: center;"> آموزش Html مقدماتی </td>
+                <td style="color: #fff; text-align: center;"> 4 </td>
+            </tr>
+            <tr>
+                <td style="color: #fff; text-align: center;"> 2 </td>
+                <td style="color: #fff; text-align: center;"> آموزش Css مقدماتی </td>
+                <td style="color: #fff; text-align: center;"> 5 </td>
+            </tr>
+            <tr>
+                <td style="color: #fff; text-align: center;"> 3 </td>
+                <td style="color: #fff; text-align: center;"> آموزش Html پیشرفته </td>
+                <td style="color: #fff; text-align: center;"> 13 </td>
+            </tr>
+        </table>
+    </body>
+</html>
