@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title> E18 </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form>
+            <h3> Login Page : </h3>
+            <br>
+            <label for="email"> Email : </label>
+            <input id="email" name="email" type="email">
+            <br><br>
+            <label for="Number"> Number : </label>
+            <input id="Number" name="Number" type="number">
+            <br><br>
+            <label for="Tel"> Tel : </label>
+            <input id="Tel" name="Tel" type="tel">
+            <br><br>
+            <label for="Color"> Color : </label>
+            <input id="Color" name="Color" type="color">
+            <br><br>
+            <label for="Range"> Range : </label>
+            <input id="Range" name="Range" type="range">
+            <br><br>
+            <label for="File"> File : </label>
+            <input id="File" name="File" type="file">
+            <br><br>
+            <label for="URL"> URL : </label>
+            <input id="URL" name="URL" type="url">
+            <br><br>
+            <input type="submit">
+        </form>
+    </body>
+</html>
